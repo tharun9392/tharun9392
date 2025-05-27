@@ -3,8 +3,9 @@
 **Contact Information**  
 📱 +91 9701378064  
 📧 btharun356@gmail.com  
-🔗 [LinkedIn](www.linkedin81b6902a3.com/in/tharun-badavath-)  
-💻 [GitHub](https://github.com/tharun9392)
+🔗 [LinkedIn](www.linkedin.com/in/tharun-badavath-81b6902a3)  
+💻 [GitHub](https://github.com/tharun9392)  
+🌐 [Portfolio](https://tharunbadavath.netlify.app/)
 
 ## Professional Summary
 Driven Electronics and Communication student with an 8.11 CGPA in a Diploma and a 7.0 CGPA in a Bachelor's degree, excelling in software development, full-stack application design, and data structures. Proven track record of developing user-centric applications, showcasing advanced problem-solving abilities, robust project management, and a commitment to impactful results. Proficient in full-stack development, machine learning, and mobile app development, seeking an internship to leverage these skills in a professional environment.
@@ -82,6 +83,16 @@ Driven Electronics and Communication student with an 8.11 CGPA in a Diploma and 
 - Facilitated seamless internship exploration and application management for over 800 users
 - Implemented advanced features including secure user authentication, personalized dashboards, and real-time application tracking
 - Streamlined the internship application process through frontend module development
+
+## Internships
+
+### Embedded System Developer Virtual Internship
+**MICROCHIP (Supported by AICTE)**  
+*April - June 2024 | Duration: 10 weeks*
+
+### Advance Data Science and Artificial Intelligence Internship
+**YBI Foundation**  
+*May 2024 | Duration: 1 Month*
 
 ## Certifications
 - Google badge in Introduction to Generative Artificial Intelligence
